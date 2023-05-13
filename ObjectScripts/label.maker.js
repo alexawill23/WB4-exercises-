@@ -1,6 +1,6 @@
 "use strict"; 
 
-let contactAddress = {
+let contact = {
     name: "Gweyn Stephanie ",
     address: "7846 Hollywood Blvd, ",
     city: "Beverly Hills, ",
@@ -8,8 +8,8 @@ let contactAddress = {
     zip: 90210,
 };
 
-function printContactAddress(contactAddress){
+function printContact(contact){
     
 }; 
 
-console.log(contactAddress.name + contactAddress.address + contactAddress.city + contactAddress.state + contactAddress.zip); 
+console.log(contact.name + contact.address + contact.city + contact.state + contact.zip); 
